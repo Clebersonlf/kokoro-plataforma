@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="928845f5-b4f2-4ff5-a158-eb5b7b2b4641" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Data/.jason" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/dados.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/dados_autodefesa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/jiujitsu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/judo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/karate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/themes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/heder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/videoPlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/area-aluno.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/atividade-fisica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/autodefesa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/cursos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/doutrina-tatica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/eventos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/glossario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/historia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/jiujitsu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/judo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/karate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/legislacao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/livros-artigos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/mentoria.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/nutricao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/primeiros-socorros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/psicologia.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30DHYfgVwP8Sza0rysnWvvYQ0Pp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/clebe/OneDrive/Desktop/KOKORO&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/clebe/OneDrive/Desktop/KOKORO&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;HTML&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\clebe\OneDrive\Desktop\KOKORO" />
+      <recent name="C:\Users\clebe\OneDrive\Desktop\KOKORO\pages " />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\clebe\OneDrive\Desktop\KOKORO\Data" />
+      <recent name="C:\Users\clebe\OneDrive\Desktop\KOKORO\js" />
+      <recent name="C:\Users\clebe\OneDrive\Desktop\KOKORO\css" />
+      <recent name="C:\Users\clebe\OneDrive\Desktop\KOKORO\pages" />
+      <recent name="C:\Users\clebe\OneDrive\Desktop\KOKORO\pages " />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/KOKORO - TELA PRETA/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/KOKORO/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="928845f5-b4f2-4ff5-a158-eb5b7b2b4641" name="Changes" comment="" />
+      <created>1753155271806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753155271806</updated>
+      <workItem from="1753155273144" duration="13000" />
+      <workItem from="1753155296775" duration="11000" />
+      <workItem from="1753155317246" duration="8000" />
+      <workItem from="1753155334746" duration="67000" />
+      <workItem from="1753155411776" duration="1321000" />
+      <workItem from="1753156751340" duration="2654000" />
+      <workItem from="1753159426234" duration="4009000" />
+      <workItem from="1753240895972" duration="6876000" />
+      <workItem from="1753334099148" duration="315000" />
+      <workItem from="1753334427220" duration="8484000" />
+      <workItem from="1753414980050" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

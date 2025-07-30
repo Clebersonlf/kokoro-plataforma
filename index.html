@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kokoro - Portal de Artes Marciais">
+    <title>Kokoro</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<div class="container">
+    <!-- Auth buttons no topo direito -->
+    <div class="auth-container">
+        <button id="loginBtn" class="auth-btn" aria-label="Fazer login">Login</button>
+        <button id="registerBtn" class="auth-btn" aria-label="Cadastrar-se">Cadastre-se</button>
+    </div>
+
+    <!-- Conteúdo principal -->
+    <div class="center-content">
+        <h1>KOKORO</h1>
+        <div class="kanji" role="img" aria-label="Kanji Kokoro - Coração/Mente">心</div>
+    </div>
+
+    <!-- Caixa motivacional com animação -->
+    <div class="motivacional-box" id="motivacional">
+        <button class="close-button" aria-label="Fechar mensagem motivacional">×</button>
+        <p>
+            <span lang="ja" class="japanese-text">七転び八起き</span>
+            <br>
+            <span class="quote-translation">"Caia sete vezes, levante-se oito" (Japonês)</span>
+        </p>
+    </div>
+
+    <!-- Seção de recursos -->
+    <section class="features-section">
+        <div class="feature-card">
+            <h3>Treine com os Melhores</h3>
+            <p>Instrutores certificados e metodologia exclusiva</p>
+        </div>
+        <div class="feature-card">
+            <h3>Conteúdo Exclusivo</h3>
+            <p>Acesso a vídeos, apostilas e material didático</p>
+        </div>
+        <div class="feature-card">
+            <h3>Comunidade Ativa</h3>
+            <p>Troque experiências com outros praticantes</p>
+        </div>
+    </section>
+
+    <!-- Redes Sociais -->
+    <div class="social-media">
+        <a href="https://instagram.com/seu_perfil" target="_blank" class="social-icon" aria-label="Siga-nos no Instagram">
+            <i class="fab fa-instagram"></i>
+        </a>
+        <a href="https://facebook.com/sua_pagina" target="_blank" class="social-icon" aria-label="Curta nossa página no Facebook">
+            <i class="fab fa-facebook"></i>
+        </a>
+        <a href="https://youtube.com/seu_canal" target="_blank" class="social-icon" aria-label="Inscreva-se no YouTube">
+            <i class="fab fa-youtube"></i>
+        </a>
+        <a href="https://wa.me/seu_numero" target="_blank" class="social-icon" aria-label="Contate-nos pelo WhatsApp">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </div>
+
+    <!-- Modal de Login -->
+    <div id="loginModal" class="modal" role="dialog" aria-labelledby="loginTitle">
+        <div class="modal-content">
+            <span class="close" aria-label="Fechar modal">&times;</span>
+            <h2 id="loginTitle">Login</h2>
+            <form id="loginForm" action="#" method="post">
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="Seu email" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Senha:</label>
+                    <input type="password" id="password" name="password" placeholder="Sua senha" required>
+                </div>
+                <button type="submit" class="submit-btn">Entrar</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Navegação principal -->
+    <nav class="menu" role="navigation">
+        <ul>
+            <!-- Adicione seus links de navegação aqui -->
+        </ul>
+    </nav>
+</div>
+
+<!-- Scripts -->
+<script src="../js/script.js"></script>
+</body>
+</html>
