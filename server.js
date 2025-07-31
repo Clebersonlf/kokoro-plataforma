@@ -1,18 +1,4 @@
 > Cleberson:
-const express = require('express');
-const path = require('path');
-
-const app = express();
-const port = process.env.PORT || 3000;
-
-// Torna todos os arquivos acessíveis publicamente
-app.use(express.static(path.join(__dirname)));
-
-// Redireciona todas as rotas para o index.html
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'pages/index.html'));
-});
-
-app.listen(port, () => {
-  console.log(`Servidor rodando em http://localhost:${port}`);
-});
+git add .
+git commit -m "Corrigido JSON e pronto para deploy"
+git push origin main
