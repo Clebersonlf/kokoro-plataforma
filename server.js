@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // Torna todos os arquivos acessíveis publicamente
-app.use(express.static(path.join(__dirname)));
+app.use(express.static(path.join(__dirname, 'pages')));
 
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages/index.html'));
