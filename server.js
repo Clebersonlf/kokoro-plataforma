@@ -1,3 +1,4 @@
+> Cleberson:
 const express = require('express');
 const path = require('path');
 
@@ -5,8 +6,9 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // Torna todos os arquivos acessíveis publicamente
-app.use(express.static(path.join(__dirname, 'pages')));
+app.use(express.static(path.join(__dirname)));
 
+// Redireciona todas as rotas para o index.html
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages/index.html'));
 });
